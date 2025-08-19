@@ -84,9 +84,12 @@ KKR & KSR Institute of Technology and Sciences, Guntur, AP
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeshaSai07&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeshaSai07&theme=radical&hide_border=false" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeshaSai07&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
+</p>
 ---
 
 ## 📫 Connect with Me  
