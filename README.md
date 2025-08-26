@@ -75,7 +75,6 @@ KKR & KSR Institute of Technology and Sciences, Guntur, AP
 - ✅ Java Full Stack Development — Wipro *(Jan 2024)*  
 
 ---
-
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -90,6 +89,7 @@ KKR & KSR Institute of Technology and Sciences, Guntur, AP
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeshaSai07&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
 </p>
+
 ---
 
 ## 📫 Connect with Me  
