@@ -47,15 +47,40 @@
 - Applied **text analysis** to identify scam patterns.  
 - Automated fraud detection to protect job seekers.  
 
-### 🔹 [Hostel Hub](#)
-*React.js, MongoDB*  
-- Designed and developed a **responsive web app** for hostel management.  
-- Implemented **dynamic UI components** and interactive features.  
+### 🔹 [AI Time Analytics Dashboard](#)
+*JavaScript, React, Firebase*  
+- Built a full-stack productivity tracking platform with secure authentication and analytics dashboards.
+- Created a responsive dark-themed interface using reusable React components and clean architecture.
+- Added interactive visualizations to monitor productivity trends and task completion metrics.
 
-### 🔹 [Smart Cap (IoT)](#)
-*Arduino, DHT-11, Peltier Module*  
+### 🔹 [Smart Cap[IoT]](#)
+*Arduino, DHT-11, Peltier Module*   
 - Built a **solar-powered smart cap** with automatic cooling system.  
-- Integrated **sensors + battery system** for outdoor workers’ safety.  
+- Integrated **sensors + battery system** for outdoor workers’ safety. 
+
+### 🔹 [YouTube Comment Analyzer](#)
+*Python, Flask, Machine Learning*  
+- Integrated YouTube Data API and Google Gemini API to perform large-scale sentiment analysis.
+- Designed analytics dashboards with sentiment filters and statistical visualizations.
+-  Analyzed over 10,000 comments using AI models, achieving 90% sentiment classification accuracy.
+
+### 🔹 [AI Data Annotation & Labeling Tool](#)
+*React.js, JavaScript, AI Labeling, CSV/JSON*   
+- Developed a web-based tool to label raw text data such as reviews, chats, and feedback for GEN AI and NLP model training 
+- Engineered manual and AI-assisted annotation features to reduce human effort and improve labeling accuracy
+- Enabled export of clean, structured datasets in CSV and JSON formats for direct use in training chatbots, sentiment analysis systems, and LLMs
+
+### 🔹 [Online Chat Application](#)
+*Full-Stack Java Application*   
+- Created an encrypted online chat room platform enabling users to connect securely
+- Implemented Role-based authentication and authorization via Spring Security, almost completely eliminated unauthorized access risks.
+- Packaged and deployed with Maven, cutting build time by 40% through dependency optimization
+
+### 🔹 [Hostel Hub](#)
+*React.js,HTML,CSS,Java Script,MongoDB*   
+- Designed and developed the front end of a Hostel Hub website using React.js and JavaScript, ensuring a responsive and user-friendly interface
+- Implemented dynamic components and interactive features to enhance the user experience and streamline navigation.
+- Designed and structured UI components to improve accessibility, reliability, and overall functionality
 
 ---
 
