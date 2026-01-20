@@ -49,8 +49,8 @@
 
 ### 🔹 [AI Time Analytics Dashboard](#)
 *JavaScript, React, Firebase*  
-- Built a full-stack productivity tracking platform with secure authentication and analytics dashboards.
-- Created a responsive dark-themed interface using reusable React components and clean architecture.
+- Built a full-stack productivity tracking platform with secure authentication and analytics dashboards.
+- Created a responsive dark-themed interface using reusable React components and clean architecture.
 - Added interactive visualizations to monitor productivity trends and task completion metrics.
 
 ### 🔹 [Smart Cap[IoT]](#)
